@@ -1,103 +1,142 @@
-# 👋 Hi, I'm Piyush Kumar
+# PIYUSH KUMAR
 
-### 💻 React Native & Full Stack Developer
+### React Native & Full Stack Developer
+
+**Building mobile experiences. Developing backend systems. Solving real problems with JavaScript.**
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&width=500&lines=React+Native+Developer;JavaScript+Developer;Node.js+%26+Express.js;MongoDB+%7C+REST+API+Developer" />
+  <a href="https://github.com/piyush22uk-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Profile-183D32?style=for-the-badge&logo=github&logoColor=64E6A4"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pardeep-kumar-66aa67434/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-183D32?style=for-the-badge&logo=linkedin&logoColor=64E6A4"/>
+  </a>
+  <a href="mailto:piyush22uk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-183D32?style=for-the-badge&logo=gmail&logoColor=64E6A4"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 01 / DEVELOPER PROFILE
 
-I'm a BCA graduate (2026) and a passionate developer interested in building modern mobile applications and backend systems.
+I'm a BCA graduate (2026) focused on React Native mobile development and full-stack JavaScript.
 
-- 📱 Focused on React Native development.
-- ⚙️ Building backend applications using Node.js and Express.js.
-- 🗄️ Working with MongoDB databases.
-- 🔐 Learning authentication systems using JWT and Firebase.
-- 💡 Interested in clean UI/UX and practical application development.
-- 🎯 Looking for an opportunity as a Fresher Developer.
+I enjoy building practical applications, connecting frontend interfaces with backend APIs, managing databases and implementing authentication systems.
 
----
-
-## 🛠️ My Tech Stack
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
-
-### Frontend & Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase" />
-</p>
-
-**Additional Skills:** REST API, JWT Authentication, React Navigation.
+- 🎓 BCA Graduate — 2026
+- 📱 React Native Mobile Development
+- ⚙️ Node.js & Express.js Backend Development
+- 🗄️ MongoDB Database Management
+- 🔐 JWT Authentication & Firebase
+- 🎯 Seeking Fresher Developer Opportunities
 
 ---
 
-## 📊 GitHub Analytics
+## 02 / LIVE GITHUB INDICATORS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyush22uk-cyber&show_icons=true&theme=merko&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush22uk-cyber&layout=compact&theme=merko&hide_border=true" />
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpiyush22uk--cyber&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=183D32&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpiyush22uk--cyber&query=%24.followers&label=FOLLOWERS&color=183D32&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpiyush22uk--cyber&query=%24.following&label=FOLLOWING&color=183D32&style=for-the-badge&logo=github"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=piyush22uk-cyber&theme=merko&hide_border=true" />
-</p>
+*Metrics are retrieved from your public GitHub account.*
 
 ---
 
-## 💼 My Development Projects
+## 03 / TECHNICAL EXPERTISE
+
+**Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-183D32?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-183D32?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-183D32?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Mobile & Frontend**
+
+![React Native](https://img.shields.io/badge/React_Native-183D32?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-183D32?style=flat-square&logo=expo&logoColor=FFFFFF)
+![React Navigation](https://img.shields.io/badge/React_Navigation-183D32?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-183D32?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-183D32?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-183D32?style=flat-square&logo=mongodb&logoColor=47A248)
+![REST API](https://img.shields.io/badge/REST_API-183D32?style=flat-square&logo=fastapi&logoColor=FFFFFF)
+
+**Authentication & Development Tools**
+
+![JWT](https://img.shields.io/badge/JWT-183D32?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-183D32?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-183D32?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-183D32?style=flat-square&logo=github&logoColor=FFFFFF)
+
+---
+
+## 04 / FEATURED DEVELOPMENT PROJECTS
 
 ### 🍬 CandyApp
-A React Native shopping application project.
+**Mobile Shopping Application**
 
-- Product browsing and management.
-- Cart and order management.
-- Customer authentication.
-- Backend API integration.
+A React Native application with customer shopping functionality and backend integration.
 
-**Tech:** React Native, Node.js, Express.js, MongoDB, Firebase.
+- Customer registration and login
+- Product browsing and categories
+- Cart and stock management
+- Order placement and order tracking
+- Firebase Google Authentication
+- Push Notifications
 
-### 🛠️ CandyAdminJS
-An admin management application project.
+**Stack:** React Native · Node.js · Express.js · MongoDB · Firebase
 
-- Admin and Superadmin roles.
-- Role-based screen permissions.
-- Product and order management.
-- Push notification system.
+### ⚙️ CandyAdminJS
+**Admin Management Application**
 
-**Tech:** React Native, Node.js, Express.js, MongoDB, JWT.
+A React Native administration application designed to manage shopping operations.
 
-*Project repositories will be published soon.*
+- Superadmin and Admin roles
+- Role-based screen permissions
+- Product management
+- Customer and order management
+- Admin notifications
+- Order status management
 
----
+**Stack:** React Native · Node.js · Express.js · MongoDB · JWT
 
-## 🎯 Current Goals
-
-- Improve React Native development skills.
-- Build scalable REST APIs.
-- Learn advanced backend development.
-- Improve problem-solving skills.
-- Start my professional developer career.
+*Source code publication is planned for a later date.*
 
 ---
 
-## 🤝 Connect With Me
+## 05 / GITHUB ACTIVITY
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pardeep-kumar-66aa67434/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-183D32?
+My contribution graph and activity timeline are available directly on my GitHub profile.
+
+[View My GitHub Activity](https://github.com/piyush22uk-cyber)
+
+*Language statistics will become meaningful when public code repositories are available.*
+
+---
+
+## 06 / CAREER OBJECTIVE
+
+Looking for an opportunity where I can apply my JavaScript, React Native and backend development skills, work with experienced developers and grow as a professional software developer.
+
+---
+
+## CONNECT WITH ME
+
+**LinkedIn:** [Piyush Kumar](https://www.linkedin.com/in/pardeep-kumar-66aa67434/)
+
+**Email:** [piyush22uk@gmail.com](mailto:piyush22uk@gmail.com)
+
+**GitHub:** [piyush22uk-cyber](https://github.com/piyush22uk-cyber)
+
+---
+
+<p align="center">
+  <b>BUILD • LEARN • IMPROVE</b>
+  <br/>
+  <sub>JavaScript Developer | React Native | Full Stack Development</sub>
+</p>
